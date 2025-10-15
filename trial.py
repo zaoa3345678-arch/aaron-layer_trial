@@ -64,6 +64,7 @@ btn_print = tk.Button(root, text="Print")
 btn_print.pack(pady=25)
 
 print ('hello world')
+print ('hello world2')
 
 # 啟動主迴圈
 root.mainloop()
